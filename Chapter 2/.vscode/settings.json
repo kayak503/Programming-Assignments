@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "ostream": "cpp",
+        "cmath": "cpp",
+        "iostream": "cpp",
+        "iomanip": "cpp"
+    },
+    "python.pythonPath": "C:\\Program Files (x86)\\Python38-32\\python.exe"
+}
